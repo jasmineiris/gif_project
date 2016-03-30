@@ -10,7 +10,7 @@ This project is for a codepath demo final app in iOS (swift) called VeMoJa (a gi
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gif_project/gif_project/gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jasmineiris/gif_project/blob/master/gif_project/gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
