@@ -10,7 +10,7 @@ created an array of photos to display as a gif
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jasmineiris/gif_project/gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><img src='https://github.com/jasmineiris/cpProj-1/blob/master/MovieHubError.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jasmineiris/gif_project/gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
