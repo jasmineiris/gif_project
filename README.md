@@ -4,7 +4,7 @@ created an array of photos to display as a gif
 
 **SightSeeing** creates an array of photos to display as a gif.
 
-## This project is for a final project called VeMoJa (a gif storytelling app with a timestamp)
+# This project is codepath demo final project called VeMoJa (a gif storytelling app with a timestamp)
 
 ## Video Walkthrough 
 
